@@ -2,7 +2,7 @@
     使用代码实现行为树功能，以此为基础模拟AI，同时不断对框架设计进行优化，以得到更好的表现--Implement the function of behavior tree by using code, to achieve AI function. At the same time, constantly optimize the frame design to get better perform.
 
     行为树(Behavior Tree, BT)在游戏Al中是一种用于控制游戏角色的人工智能技术。在游戏Al中，对象的动作和行为往往是提前编辑好的（比如移动，攻击等)
-但是在什么时间或者什么地点执行这些行为是不确定的(比如何时朝目标移动，何时攻击目标等)因此我们需要使用行为树或者状态机来实现这些对象的决策任务。
+    但是在什么时间或者什么地点执行这些行为是不确定的(比如何时朝目标移动，何时攻击目标等)因此我们需要使用行为树或者状态机来实现这些对象的决策任务
 
     由于行为树插件无法拓展的性质，在此使用代码编程实现行为树逻辑功能，在需要拓展时可以方便使用
 
